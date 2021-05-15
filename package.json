@@ -1,0 +1,22 @@
+{
+  "name": "8-ajax",
+  "version": "1.0.0",
+  "description": "- `npm init` - `touch .gitignore` - `npm install axios --save` - zet `node_modules/` in de `.gitignore` - maak een .js bestand aan voor de oefening - importeer axios in dat bestand: `const axios = require('axios')` - doe een `get` request naar de [Chuck Norris API](https://api.chucknorris.io/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mutanium/API-met-Axios-oefening.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mutanium/API-met-Axios-oefening/issues"
+  },
+  "homepage": "https://github.com/Mutanium/API-met-Axios-oefening#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
